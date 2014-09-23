@@ -4,3 +4,4 @@ class Test
   def self.test puts self; end;
   puts self
 end
+#end comment!
