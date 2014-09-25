@@ -1,3 +1,7 @@
 def fact(n)
-	n > 1 ? n*fact(n-1) : 1
+	r = 1
+	for i in 1..n
+		r *= i
+	end
+	r
 end
