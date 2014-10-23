@@ -9,4 +9,3 @@ The first ninja sneaked in the bamboo fields.
 <a href="http://staging.gitcolony.com/redirect/pubco/repos/21"><img src="http://staging.gitcolony.com/companies/pubco.svg" title="Review Coverage" target="_blank"></a>
 
 <a href="http://staging.gitcolony.com/companies/pubco/repos/21/follow"><img src="http://staging.gitcolony.com/img/follow.png" title="Follow repository in Gitcolony" target="_blank"></a>
-
